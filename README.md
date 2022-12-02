@@ -1,5 +1,5 @@
 # Välkommen till [Gottfrids ankor](https://medieinstitutet.github.io/fed22d-js-grundkurs-gruppuppgift-webbshop-rubberduckgang/)!
-### Skapad av: Hanna Forssell, [Joel Del Pilar](https://github.com/JoeldelPilar) och David Stålgren.
+### Skapad av: [Hanna Forssell](https://github.com/hannaforssell) , [Joel Del Pilar](https://github.com/JoeldelPilar) och [David Stålgren](https://github.com/davidstalgren).
 
 ### Index
 * 1 Beskrivning
